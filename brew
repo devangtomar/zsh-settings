@@ -81,14 +81,12 @@ pixman
 powerlevel10k
 pure
 pycparser
-python-certifi
-python-cryptography
 python-setuptools
 python@3.11
 python@3.12
 readline
 rtmpdump
-rustup-init
+rustup
 sbt
 scala
 sha3sum
@@ -113,4 +111,3 @@ chromedriver
 fig
 pieces-cli
 visual-studio-code
-youtube-music
