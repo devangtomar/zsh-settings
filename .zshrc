@@ -16,3 +16,10 @@ export NVM_DIR="$HOME/.nvm"
 
 # CodeWhisperer post block. Keep at the bottom of this file.
 [[ -f "${HOME}/Library/Application Support/codewhisperer/shell/zshrc.post.zsh" ]] && builtin source "${HOME}/Library/Application Support/codewhisperer/shell/zshrc.post.zsh"
+
+# For Kyma setup
+export PATH="${KREW_ROOT:-$HOME/.krew}/bin:$PATH"
+
+# For Google Cloud SDK completion
+source /opt/homebrew/share/google-cloud-sdk/completion.zsh.inc
+source /opt/homebrew/share/google-cloud-sdk/path.zsh.inc
