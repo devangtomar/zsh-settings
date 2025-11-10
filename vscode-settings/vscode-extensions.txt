@@ -5,6 +5,7 @@ adpyke.vscode-sql-formatter
 akamud.vscode-theme-onedark
 akamud.vscode-theme-onelight
 alefragnani.jenkins-status
+alefragnani.project-manager
 alexanderalekseenko.jetdark
 alexzshl.badges-snippets
 antonreshetov.masscode-assistant
@@ -16,9 +17,11 @@ beardedbear.beardedtheme
 benjaminbenais.copilot-theme
 bierner.github-markdown-preview
 bierner.markdown-checkbox
+bierner.markdown-emoji
 bierner.markdown-footnotes
 bierner.markdown-mermaid
 bierner.markdown-preview-github-styles
+biomejs.biome
 bmewburn.vscode-intelephense-client
 bradlc.vscode-tailwindcss
 bruno-api-client.bruno
@@ -64,6 +67,8 @@ grapecity.gc-excelviewer
 gruntfuggly.todo-tree
 hashicorp.terraform
 hediet.vscode-drawio
+hkeric.theme-anysphere
+humao.rest-client
 idanp.smartmulticursor
 illixion.vscode-vibrancy-continued
 imagineee.moon-purple
@@ -84,6 +89,7 @@ kennylong.kubernetes-yaml-formatter
 leetcode.vscode-leetcode
 manitejapratha.cursor-midnight-theme
 marciorasf.theme-darkula
+mblode.pretty-formatter
 mechatroner.rainbow-csv
 meezilla.json
 mel-brown.deep-purple
@@ -92,15 +98,25 @@ mhutchie.git-graph
 michaelcurrin.auto-commit-msg
 mikestead.dotenv
 ms-azure-load-testing.microsoft-testing
+ms-azuretools.azure-dev
 ms-azuretools.vscode-azure-github-copilot
 ms-azuretools.vscode-azure-mcp-server
+ms-azuretools.vscode-azureappservice
+ms-azuretools.vscode-azurecontainerapps
+ms-azuretools.vscode-azurefunctions
 ms-azuretools.vscode-azureresourcegroups
+ms-azuretools.vscode-azurestaticwebapps
+ms-azuretools.vscode-azurestorage
+ms-azuretools.vscode-azurevirtualmachines
 ms-azuretools.vscode-containers
+ms-azuretools.vscode-cosmosdb
+ms-azuretools.vscode-docker
 ms-dotnettools.csharp
 ms-dotnettools.vscode-dotnet-runtime
 ms-edgedevtools.vscode-edge-devtools
 ms-kubernetes-tools.vscode-kubernetes-tools
 ms-ossdata.vscode-pgsql
+ms-playwright.playwright
 ms-python.black-formatter
 ms-python.debugpy
 ms-python.isort
@@ -144,6 +160,7 @@ piyush-bhatt.vscode-mat-palette
 pkief.material-icon-theme
 pnp.polacode
 powertech.powerthemes
+prateekmahendrakar.prettyxml
 quicktype.quicktype
 qwtel.sqlite-viewer
 rangav.vscode-thunder-client
@@ -158,8 +175,10 @@ rexebin.darkpurple
 ritwickdey.liveserver
 rokoroku.vscode-theme-darcula
 rust-lang.rust-analyzer
+scala-lang.scala
 seatonjiang.gitmoji-vscode
 shardulm94.trailing-spaces
+shortcutsninja.shortcutsninja
 shubham-saudolla.lilac
 shyykoserhiy.git-autoconfig
 ssmi.after-dark
@@ -180,6 +199,7 @@ tyriar.windows-terminal
 ultram4rine.vscode-choosealicense
 visualstudioexptteam.intellicode-api-usage-examples
 visualstudioexptteam.vscodeintellicode
+vmware.vscode-spring-boot
 vscjava.migrate-java-to-azure
 vscjava.vscode-gradle
 vscjava.vscode-java-debug
@@ -194,6 +214,7 @@ vscode-icons-team.vscode-icons
 wayou.vscode-todo-highlight
 whizkydee.material-palenight-theme
 wholroyd.jinja
+wix.vscode-import-cost
 wmaurer.change-case
 wtetsu.tempfile
 zhuangtongfa.material-theme
