@@ -1,0 +1,516 @@
+{
+  "[css]": {
+    "editor.defaultFormatter": "aeschli.vscode-css-formatter"
+  },
+  "[dockercompose]": {
+    "editor.defaultFormatter": "ms-azuretools.vscode-docker"
+  },
+  "[dockerfile]": {
+    "editor.defaultFormatter": "ms-azuretools.vscode-containers"
+  },
+  "[handlebars]": {
+    "editor.defaultFormatter": "mohd-akram.vscode-html-format"
+  },
+  "[html]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[javascript]": {
+    "editor.defaultFormatter": "vscode.typescript-language-features"
+  },
+  "[javascriptreact]": {
+    "editor.defaultFormatter": "vscode.typescript-language-features"
+  },
+  "[json]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[markdown]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[python]": {
+    "editor.defaultFormatter": "ms-python.black-formatter",
+    "editor.formatOnType": true
+  },
+  "[shellscript]": {
+    "editor.defaultFormatter": "foxundermoon.shell-format"
+  },
+  "[sql]": {
+    "editor.defaultFormatter": "adpyke.vscode-sql-formatter"
+  },
+  "[typescript]": {
+    "editor.defaultFormatter": "vscode.typescript-language-features"
+  },
+  "[typescriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[xml]": {
+    "editor.defaultFormatter": "redhat.vscode-xml"
+  },
+  "[yaml]": {},
+  "animations.Enabled": true,
+  "application.shellEnvironmentResolutionTimeout": 20,
+  "black.debug": true,
+  "black.fast": true,
+  "diffEditor.maxComputationTime": 0,
+  "docsYaml.telemetry.enableTelemetry": false,
+  "dotnetAcquisitionExtension.enableTelemetry": false,
+  "easycode.dataCollection": false,
+  "easycode.maxTokens": 2000,
+  "easycode.model": "gpt-3.5-turbo",
+  "easycode.userEmail": "work.devang123@gmail.com",
+  "editor.accessibilitySupport": "off",
+  "editor.fontFamily": "Fira Code, monospace",
+  "editor.fontLigatures": true,
+  "editor.fontSize": 12,
+  "editor.formatOnPaste": true,
+  "editor.formatOnSave": true,
+  "editor.formatOnType": true,
+  "editor.inlineSuggest.showToolbar": "always",
+  "editor.largeFileOptimizations": false,
+  "editor.quickSuggestionsDelay": 1,
+  "explorer.confirmDelete": false,
+  "explorer.confirmDragAndDrop": false,
+  "files.autoSave": "afterDelay",
+  "files.autoSaveDelay": 250,
+  "git-autoconfig.configList": [
+    {
+      "user.email": "devangtomar123@gmail.com",
+      "user.name": "devangtomar"
+    },
+    {
+      "user.email": "work.devang123@gmail.com",
+      "user.name": "learner-td"
+    },
+    {
+      "user.email": "devang.tomar@sap.com",
+      "user.name": "I751877"
+    }
+  ],
+  "git.confirmSync": false,
+  "git.enableSmartCommit": true,
+  "git.ignoreLegacyWarning": true,
+  "git.openRepositoryInParentFolders": "always",
+  "gitlens.ai.experimental.openai.model": "gpt-3.5-turbo-1106",
+  "gitlens.ai.experimental.provider": "openai",
+  "gitlens.telemetry.enabled": false,
+  "go.toolsManagement.autoUpdate": true,
+  "howIVSCode.userIdentificationKey": " b3a6ad60f400392fa7e92d7cd406ff",
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "json.maxItemsComputed": 50000,
+  "liveServer.settings.donotShowInfoMsg": true,
+  "liveServer.settings.donotVerifyTags": true,
+  "liveshare.accessibility.voiceEnabled": false,
+  "markdown.showToolbar": true,
+  "materialTheme.accent": "Blue",
+  "notebook.cellToolbarLocation": {
+    "default": "right",
+    "jupyter-notebook": "left"
+  },
+  "peacock.favoriteColors": [
+    {
+      "name": "Angular Red",
+      "value": "#dd0531"
+    },
+    {
+      "name": "Azure Blue",
+      "value": "#007fff"
+    },
+    {
+      "name": "JavaScript Yellow",
+      "value": "#f9e64f"
+    },
+    {
+      "name": "Mandalorian Blue",
+      "value": "#1857a4"
+    },
+    {
+      "name": "Node Green",
+      "value": "#215732"
+    },
+    {
+      "name": "React Blue",
+      "value": "#61dafb"
+    },
+    {
+      "name": "Something Different",
+      "value": "#832561"
+    },
+    {
+      "name": "Svelte Orange",
+      "value": "#ff3d00"
+    },
+    {
+      "name": "Vue Green",
+      "value": "#42b883"
+    }
+  ],
+  "pieces.addSnippets": null,
+  "pieces.setCopilotLocation": true,
+  "pieces.telemetry": true,
+  "python.analysis.extraPaths": [],
+  "python.autoComplete.extraPaths": [],
+  "python.formatting.provider": "black",
+  "python.languageServer": "Pylance",
+  "redhat.telemetry.enabled": false,
+  "rest-client.enableTelemetry": false,
+  "security.workspace.trust.banner": "never",
+  "security.workspace.trust.emptyWindow": true,
+  "security.workspace.trust.enabled": true,
+  "security.workspace.trust.startupPrompt": "never",
+  "security.workspace.trust.untrustedFiles": "open",
+  "settingsSync.ignoredExtensions": [],
+  "sync.autoDownload": true,
+  "sync.autoUpload": true,
+  "sync.forceDownload": true,
+  "sync.forceUpload": true,
+  "sync.quietSync": true,
+  "tabnine.experimentalAutoImports": true,
+  "terminal.integrated.defaultProfile.osx": "zsh",
+  "terminal.integrated.defaultProfile.windows": "Ubuntu (WSL)",
+  "terminal.integrated.enableMultiLinePasteWarning": false,
+  "terminal.integrated.env.osx": {
+    "CW_NEW_SESSION": "1",
+    "FIG_NEW_SESSION": "1"
+  },
+  "terminal.integrated.fontFamily": "Fira Code",
+  "terminal.integrated.profiles.windows": {
+    "Command Prompt": {
+      "args": [],
+      "icon": "terminal-cmd",
+      "path": [
+        "${env:windir}\\Sysnative\\cmd.exe",
+        "${env:windir}\\System32\\cmd.exe"
+      ]
+    },
+    "Git Bash": {
+      "source": "Git Bash"
+    },
+    "PowerShell": {
+      "icon": "terminal-powershell",
+      "source": "PowerShell"
+    },
+    "Ubuntu (WSL)": {
+      "args": ["-d", "Ubuntu"],
+      "path": "C:\\WINDOWS\\System32\\wsl.exe"
+    }
+  },
+  "terminal.integrated.scrollback": 100000000,
+  "terminal.integrated.shell.windows": "C:\\WINDOWS\\System32\\wsl.exe",
+  "terminal.integrated.shellArgs.windows": ["-d", "Ubuntu"],
+  "terminal.integrated.tabs.enabled": true,
+  "typescript.updateImportsOnFileMove.enabled": "always",
+  "vs-kubernetes": {
+    "vs-kubernetes.minikube-show-information-expiration": "2023-09-21T13:16:35.009Z",
+    "vscode-kubernetes.helm-path.linux": "/root/.local/state/vs-kubernetes/tools/helm/linux-amd64/helm",
+    "vscode-kubernetes.helm-path.windows": "C:\\Users\\beayu\\.vs-kubernetes\\tools\\helm\\windows-amd64\\helm.exe",
+    "vscode-kubernetes.kubectl-path.linux": "/root/.local/state/vs-kubernetes/tools/kubectl/kubectl",
+    "vscode-kubernetes.kubectl-path.windows": "C:\\Users\\beayu\\.vs-kubernetes\\tools\\kubectl\\kubectl.exe",
+    "vscode-kubernetes.minikube-path.linux": "/root/.local/state/vs-kubernetes/tools/minikube/linux-amd64/minikube",
+    "vscode-kubernetes.minikube-path.windows": "C:\\Users\\beayu\\.vs-kubernetes\\tools\\minikube\\windows-amd64\\minikube.exe"
+  },
+  "vscode-edge-devtools.webhint": false,
+  "vscode_custom_css.imports": [
+    "file:///Users/d0t077o/.vscode/extensions/brandonkirbyson.vscode-animations-2.0.1/dist/updateHandler.js"
+  ],
+  "vsicons.dontShowNewVersionMessage": true,
+  "window.titleBarStyle": "custom",
+  "workbench.colorCustomizations": {
+    "[Material Theme Darker]": {
+      "activityBar.activeBorder": "#AB47BC",
+      "activityBarBadge.background": "#AB47BC",
+      "breadcrumb.activeSelectionForeground": "#AB47BC",
+      "editor.findMatchBorder": "#AB47BC",
+      "editorSuggestWidget.highlightForeground": "#AB47BC",
+      "editorWidget.border": "#AB47BC",
+      "editorWidget.resizeBorder": "#AB47BC",
+      "list.activeSelectionForeground": "#AB47BC",
+      "list.highlightForeground": "#AB47BC",
+      "list.inactiveSelectionForeground": "#AB47BC",
+      "menu.selectionForeground": "#AB47BC",
+      "menubar.selectionForeground": "#AB47BC",
+      "notificationLink.foreground": "#AB47BC",
+      "panelTitle.activeBorder": "#AB47BC",
+      "pickerGroup.foreground": "#AB47BC",
+      "progressBar.background": "#AB47BC",
+      "scrollbarSlider.activeBackground": "#AB47BC50",
+      "selection.background": "#AB47BC40",
+      "settings.headerForeground": "#AB47BC",
+      "settings.modifiedItemIndicator": "#AB47BC",
+      "statusBarItem.remoteBackground": "#AB47BC",
+      "tab.activeBorder": "#AB47BC",
+      "textLink.foreground": "#AB47BC"
+    },
+    "[Material Theme Ocean]": {
+      "activityBar.activeBorder": "#388E3C",
+      "activityBarBadge.background": "#388E3C",
+      "breadcrumb.activeSelectionForeground": "#388E3C",
+      "editor.findMatchBorder": "#388E3C",
+      "editorSuggestWidget.highlightForeground": "#388E3C",
+      "editorWidget.border": "#388E3C",
+      "editorWidget.resizeBorder": "#388E3C",
+      "list.activeSelectionForeground": "#388E3C",
+      "list.highlightForeground": "#388E3C",
+      "list.inactiveSelectionForeground": "#388E3C",
+      "menu.selectionForeground": "#388E3C",
+      "menubar.selectionForeground": "#388E3C",
+      "notificationLink.foreground": "#388E3C",
+      "panelTitle.activeBorder": "#388E3C",
+      "pickerGroup.foreground": "#388E3C",
+      "progressBar.background": "#388E3C",
+      "scrollbarSlider.activeBackground": "#388E3C50",
+      "selection.background": "#388E3C40",
+      "settings.headerForeground": "#388E3C",
+      "settings.modifiedItemIndicator": "#388E3C",
+      "statusBarItem.remoteBackground": "#388E3C",
+      "tab.activeBorder": "#388E3C",
+      "textLink.foreground": "#388E3C"
+    },
+    "[Material Theme]": {
+      "activityBar.activeBorder": "#2979FF",
+      "activityBarBadge.background": "#2979FF",
+      "breadcrumb.activeSelectionForeground": "#2979FF",
+      "editor.findMatchBorder": "#2979FF",
+      "editorSuggestWidget.highlightForeground": "#2979FF",
+      "editorWidget.border": "#2979FF",
+      "editorWidget.resizeBorder": "#2979FF",
+      "list.activeSelectionForeground": "#2979FF",
+      "list.highlightForeground": "#2979FF",
+      "list.inactiveSelectionForeground": "#2979FF",
+      "menu.selectionForeground": "#2979FF",
+      "menubar.selectionForeground": "#2979FF",
+      "notificationLink.foreground": "#2979FF",
+      "panelTitle.activeBorder": "#2979FF",
+      "pickerGroup.foreground": "#2979FF",
+      "progressBar.background": "#2979FF",
+      "scrollbarSlider.activeBackground": "#2979FF50",
+      "selection.background": "#2979FF40",
+      "settings.headerForeground": "#2979FF",
+      "settings.modifiedItemIndicator": "#2979FF",
+      "statusBarItem.remoteBackground": "#2979FF",
+      "tab.activeBorder": "#2979FF",
+      "textLink.foreground": "#2979FF"
+    },
+    "terminal.background": "#00000000"
+  },
+  "workbench.editorAssociations": {
+    "*.ipynb": "jupyter-notebook"
+  },
+  "xml.server.binary.trustedHashes": [
+    "70300df275d6a2771b5a0fa088448f322ec889b66ca96daf94b1aaddc87f436b"
+  ],
+  "yaml.schemas": {
+    "file:///Users/I751877/.vscode-insiders/extensions/docsmsft.docs-yaml-1.0.5/dist/toc.schema.json": "/toc\\.yml/i"
+  },
+  "codeium.enableConfig": {
+    "*": true,
+    "markdown": true,
+    "xml": true
+  },
+  "diffEditor.ignoreTrimWhitespace": false,
+  "explorer.confirmPasteNative": false,
+  "codeium.aggressiveShutdown": true,
+  "codeium.searchMaxWorkspaceFileCount": 0,
+  "pieces.autocomplete": true,
+  "vsc-leetcode.storagePath": "/Users/d0t077o/Desktop/repos/my-own/leetcode",
+  "leetcode.workspaceFolder": "/Users/d0t077o/Desktop/repos/my-own/leetcode",
+  "workbench.iconTheme": "material-icon-theme",
+  "git.autofetch": true,
+  "workbench.settings.applyToAllProfiles": ["workbench.colorCustomizations"],
+  "pieces.exploredSnippetInsights.deleteAll": null,
+  "pieces.cloudCapabilities": "Blended",
+  "github.copilot.preferredAccount": "devang-tomar_sap",
+  "window.newWindowProfile": "Default",
+  "hediet.vscode-drawio.resizeImages": null,
+  "leetcode.defaultLanguage": "python3",
+  "leetcode.filePath": {
+    "folder": "/Users/devangtomar/Documents/Developer/codebase/personal/leetcode/difficulty/easy",
+    "default": {
+      "folder": "/Users/devangtomar/Documents/Developer/codebase/personal/leetcode/difficulty/easy",
+      "filename": "${id}.${kebab-case-name}.${ext}"
+    }
+  },
+  "github.copilot.enable": {
+    "*": true,
+    "markdown": true,
+    "scminput": false,
+    "typescript": true,
+    "cds": true,
+    "log": false,
+    "plaintext": true
+  },
+  "update.mode": "manual",
+  "chat.editing.alwaysSaveWithGeneratedChanges": true,
+  "pieces.OS.launchOnStartup": "Yes",
+  "gitlens.graph.layout": "editor",
+  "[jsonc]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "@azure.argTenant": "",
+  "remote.defaultExtensionsIfInstalledLocally": [
+    "GitHub.copilot",
+    "GitHub.copilot-chat",
+    "GitHub.vscode-pull-request-github"
+  ],
+  "github.copilot.chat.codeGeneration.instructions": [],
+  "docker.extension.dockerEngineAvailabilityPrompt": false,
+  "python.createEnvironment.trigger": "off",
+  "python.defaultInterpreterPath": "/opt/homebrew/bin/python3",
+  "github.copilot.chat.codesearch.enabled": true,
+  "chat.editing.confirmEditRequestRemoval": false,
+  "python.analysis.typeCheckingMode": "standard",
+  "chat.agent.maxRequests": 1000,
+  "chat.tools.terminal.autoApprove": {
+    "python": true,
+    "javascript": true,
+    "typescript": true,
+    "shellscript": true,
+    "bash": true,
+    "powershell": true,
+    "go": true,
+    "java": true,
+    "csharp": true,
+    "cpp": true,
+    "git": true,
+    "python3": true,
+    "print('Import": true,
+    "awk": true,
+    "print": true,
+    "xargs": true,
+    "curl": true,
+    "\"req\":": true,
+    "\"thread_id\":": true,
+    "\"task\":": true,
+    "/Users/I751877/Library/CloudStorage/OneDrive-SAPSE/Documents/codebase/tools/internal-ws-helper-suite/.venv/bin/python": true,
+    "cd /Users/I751877/Library/CloudStorage/OneDrive-SAPSE/Documents/codebase/tools/internal-ws-helper-suite/server && /Users/I751877/Library/CloudStorage/OneDrive-SAPSE/Documents/codebase/tools/internal-ws-helper-suite/.venv/bin/python -c \"\nfrom config.config import ConfigSettings\n\n# Test singleton behavior\nconfig1 = ConfigSettings()\nconfig2 = ConfigSettings()\nprint('Singleton test:', config1 is config2)\n\n# Test reset functionality\nConfigSettings.reset_instance()\nconfig3 = ConfigSettings()\nprint('Reset test:', config1 is not config3)\n\n# Test basic functionality\ntry:\n    config = config3.get_config()\n    logger = config3.get_logger()\n    print('Basic functionality test: PASSED')\nexcept Exception as e:\n    print(f'Basic functionality test: FAILED - {e}')\n\"": {
+      "approve": true,
+      "matchCommandLine": true
+    },
+    "curl -X POST \"http://localhost:8000/stream\" \\\n  -H \"Content-Type: application/json\" \\\n  -d '{\n    \"task\": \"Calculate 888 * 999 and add 111\",\n    \"agent_id\": \"math_agent\",\n    \"user_id\": \"test_user\",\n    \"req\": {\n      \"wait_for_response\": true,\n      \"wait_timeout_seconds\": 300,\n      \"hitl_ttl_seconds\": 3600\n    }\n  }' \\\n  --no-buffer": {
+      "approve": true,
+      "matchCommandLine": true
+    },
+    "find . -type d -name \"__pycache__\" -exec rm -rf {} + 2>/dev/null || true": {
+      "approve": true,
+      "matchCommandLine": true
+    },
+    "\"action\":": true,
+    "\"message\":": true,
+    "\"run_id\":": true,
+    "source": true,
+    "python3 -c \"from service import app; print('Service imports successfully')\"": {
+      "approve": true,
+      "matchCommandLine": true
+    },
+    "mv": true,
+    "npm run build": true,
+    "npm install": true,
+    "npx": true,
+    "npm run dev": true,
+    "npm list": true,
+    "rm": true,
+    "cp": true,
+    "hover-card\"": true,
+    "/dev/null": true,
+    "cd /Users/I751877/Library/CloudStorage/OneDrive-SAPSE/Documents/codebase/tools/internal-ws-helper-suite && git add -A && git commit -m \"feat: Create modular component structure and update imports\n\n- Reorganized components into logical directories:\n  - layout/ (navigation, topbar)\n  - screens/ (welcome, loading screens) \n  - forms/ (chat input)\n  - content/ (chat area, markdown, messages, attachments)\n  - widgets/ (weather)\n  - shared/ (icons, animations)\n  - hooks/ (chat page logic)\n- Updated all import paths to reference new structure\n- Updated main chat/index.ts exports to point to new locations\n- Preserved existing chat/ and ai-elements/ for compatibility\"": {
+      "approve": true,
+      "matchCommandLine": true
+    },
+    "black": true,
+    "pip": true,
+    "cd /Users/I751877/Library/CloudStorage/OneDrive-SAPSE/Documents/codebase/tools/internal-ws-helper-suite && git add -A && git commit -m \"style: Format all code files with proper formatting tools\n\n- Formatted TypeScript/TSX files with Prettier\n- Formatted Python files with Black (line length 88)\n- Sorted Python imports with isort (Black profile)\n- Formatted Markdown files with Prettier\n- Applied consistent code style across the project\"": {
+      "approve": true,
+      "matchCommandLine": true
+    },
+    "ts,tsx,js,jsx,json,md}\"": true,
+    "Collapsible\\": true,
+    "Input\\": true,
+    "Select\\": true,
+    "Tooltip\"": true,
+    "import.*@radix\\": true,
+    "import.*react\"": true,
+    ".*Badge.*}\"": true,
+    "pnpm": true,
+    "mv /Users/I751877/Library/CloudStorage/OneDrive-SAPSE/Documents/codebase/tools/internal-ws-helper-suite/delete-later/app/'(auth)'/auth.config.ts /Users/I751877/Library/CloudStorage/OneDrive-SAPSE/Documents/codebase/tools/internal-ws-helper-suite/client/app/'(auth)'/auth.config.ts": {
+      "approve": true,
+      "matchCommandLine": true
+    },
+    "ls -l client/app/\\(auth\\)/login": {
+      "approve": true,
+      "matchCommandLine": true
+    },
+    "pytest": true,
+    "python -c \"import sys, os; print(sys.path)\"": {
+      "approve": true,
+      "matchCommandLine": true
+    },
+    "true": true,
+    "npx eslint --ext .ts,.tsx \"app/(auth)/logout/page.tsx\" --no-error-on-unmatched-pattern": {
+      "approve": true,
+      "matchCommandLine": true
+    },
+    "npm i": true,
+    "uv": true,
+    "sed": true
+  },
+  "githubIssues.ignoreCompletionTrigger": [
+    "coffeescript",
+    "diff",
+    "dockercompose",
+    "ignore",
+    "ini",
+    "julia",
+    "perl",
+    "powershell",
+    "python",
+    "r",
+    "ruby",
+    "shellscript",
+    "yaml"
+  ],
+  "[github-actions-workflow]": {
+    "editor.defaultFormatter": "redhat.vscode-yaml"
+  },
+  "docker.extension.enableComposeLanguageServer": false,
+  "files.associations": {
+    ".env*": "dotenv"
+  },
+  "editor.tokenColorCustomizations": {
+    "[*Light*]": {
+      "textMateRules": [
+        {
+          "scope": "ref.matchtext",
+          "settings": {
+            "foreground": "#000"
+          }
+        }
+      ]
+    },
+    "[*Dark*]": {
+      "textMateRules": [
+        {
+          "scope": "ref.matchtext",
+          "settings": {
+            "foreground": "#fff"
+          }
+        }
+      ]
+    },
+    "textMateRules": [
+      {
+        "scope": "keyword.other.dotenv",
+        "settings": {
+          "foreground": "#FF000000"
+        }
+      }
+    ]
+  },
+  "terminal.integrated.fontSize": 11,
+  "editor.cursorSmoothCaretAnimation": "on",
+  "editor.wordWrap": "on",
+  "editor.cursorBlinking": "phase",
+  "workbench.colorTheme": "Dracula",
+  "workbench.sideBar.location": "right",
+  "chat.instructionsFilesLocations": {
+    ".github/instructions": true,
+    "/Users/I751877/.aitk/instructions/": true
+  }
+}

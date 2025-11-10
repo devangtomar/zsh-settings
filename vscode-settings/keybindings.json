@@ -1,0 +1,26 @@
+// Place your key bindings in this file to override the defaults
+[
+  {
+    "key": "cmd+c",
+    "command": "-pieces-vscode.copy",
+    "when": "editorTextFocus"
+  },
+  {
+    "key": "cmd+v",
+    "command": "-pieces-vscode.paste",
+    "when": "editorTextFocus"
+  },
+  {
+    "key": "alt+cmd+t",
+    "command": "-tempfile.newfile"
+  },
+  {
+    "key": "cmd+;",
+    "command": "-ms-azurecli.toggleLiveQuery",
+    "when": "editorTextFocus && editorLangId == 'azcli'"
+  },
+  {
+    "key": "shift+cmd+x",
+    "command": "-extension.vscode-git-automator.pushLocalCommits"
+  }
+]
